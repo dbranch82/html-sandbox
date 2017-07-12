@@ -41,5 +41,7 @@
 			<li>Figure out how to code</li>
 
 		</ol>
+		<h2>I Love Pikachu</h2>
+		<img src="images/ufc.jpg" alt="Pikachu"/>
 	</body>
 </html>
